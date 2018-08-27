@@ -1,4 +1,4 @@
-# Coursera-capstone-project ( The Battle of the Neighborhoods )
+# The Battle of the Neighborhoods ( Coursera-capstone-project )
 
 ## Introduction/Business Problem
 
